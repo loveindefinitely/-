@@ -12,16 +12,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/milan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=milan&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=u28ihmd5yhz8br0ofnvomdi1p&cover_image=true&theme=default&show_offline=false&background_color=583300&interchange=false&bar_color=00374a)](https://github.com/kittinan/spotify-github-profile)
